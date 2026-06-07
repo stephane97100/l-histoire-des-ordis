@@ -1,0 +1,6 @@
+{
+  "name": "Chronos OS Explorer",
+  "description": "Une application interactive retraçant l'histoire et l'arbre généalogique des principaux systèmes d'exploitation de 1980 à nos jours : MS-DOS, AmigaOS, Atari TOS, Windows, macOS, Linux, BeOS et SunOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
